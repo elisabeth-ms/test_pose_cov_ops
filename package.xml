@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>test_pose_cov_ops</name>
+  <version>0.0.0</version>
+  <description>The test_pose_cov_ops package</description>
+
+  <maintainer email="emenende@pa.uc3m.es">elisabeth</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>roscpp</depend>
+  <depend>tf</depend>
+  <depend>mrpt_bridge</depend>
+  <depend>geometry_msgs</depend>
+  <depend>pose_cov_ops</depend>
+
+</package>
